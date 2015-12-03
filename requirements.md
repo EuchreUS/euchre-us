@@ -24,9 +24,16 @@
   * Bid selection is a tricky process
 2.	Multiple AI skills
 3.	Configuration options for more than the two required states
+4. Variants on the game
+  * Three-handed (where every player is their own team and is dealt 16 cards)
+  * Standard (single-deck) euchre
+  * Six-handed
 
-##Extra(s)
-Unlike the 99-Bottles-of-Beer.net project, there is no reason to have all euchre programs do more or less the same thing.  If a particular language makes it easy to do something, adding extras is encouraged.  Examples of things to do:
-*	Add a GUI
-*	Language good for actual AI?  Make a machine-learning computer player.
-*	Seamless database integration in your favorite language?  Add in a database to replay past games.
+##Extras
+Unlike the [99 Bottles of Beer project](http://www.99-Bottles-of-Beer.net), there is no reason to have all euchre programs do more or less exactly the same thing.  If a particular language makes it easy to do something, adding extras is encouraged.  Examples of things to do:
+
+* Add a GUI
+* Language good for actual AI?  Make a machine-learning computer player.
+* Seamless database integration in your favorite language?  Add in a database to replay past games.
+
+In particular, if someone feels like making a generic GUI that can handle switching between backends and game variants, that would be a welcome addition.  If not, that's not the important part.
