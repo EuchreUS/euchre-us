@@ -45,8 +45,9 @@ These are projects that are missing a *single* feature or need some final polish
 ###Stub
 Projets that have been started but are decidedly __not__ feature-complete.
 
-* Swift ([Chris J.M.](http://www.github.com/duck57))
-	* I'll link the repo once I have something resembling functional core game looping working.	—Chris
+* [Swift (Chris J.M.)](http://www.github.com/duck57/Swift-Euchre/)
+* Perl ([Chris J.M.](http://www.github.com/duck57))
+* Haskell ([Chris J.M.](http://www.github.com/duck57))
 
 ##Not Started
 ###Claimed
@@ -55,10 +56,7 @@ The purpose of the "Claim" is to let people know that you intend to implement Eu
 * M ([Chris J.M.](http://www.github.com/duck57))
 	* a.k.a. ANSI MUMPS, not to be confused with anything Caché-specific
 	* Seems the most diffucult part is getting GT.M set up and playing nicely on Mac OS; please let me know if you've gotten this one working.
-* Perl ([Chris J.M.](http://www.github.com/duck57))
-	* (Using this is my main learning phase for the language)	—Chris
-* Haskell ([Chris J.M.](http://www.github.com/duck57))
-	* (See note about Perl)
+	* If I get GT.M working on my machine, I'll probably put Swift on hold to work on this.  If not, then I'll get Swift mostly complete and move on to Perl, then Haskell.—Chris
 * Python ([Chris J.M.](http://www.github.com/duck57))
 	1. At the bottom of my priority list, so feel free to claim this if I haven't yet started.
 	2. Let me know if you'd like to collaberate on this one if you don't want to do it alone.
@@ -75,6 +73,9 @@ Open an issue if you've started a project in one of these languages or if you ha
 * Java
 	* If I ever find my old Java files, I'll upload them for people to look/laugh at (as they say, write once to throw away)—Chris
 * JavaScript
+	* CoffeeScript
+	* TypeScript
+	* Dart
 * FORTRAN
 * OCaml
 * Smalltalk
@@ -86,3 +87,6 @@ Open an issue if you've started a project in one of these languages or if you ha
 * Matlab
 * (Xe)LaTeX
 * LilyPond?
+* Dart
+* Rust
+* SQL?
