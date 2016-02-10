@@ -1,3 +1,7 @@
+#This is now "archived", see the updated version over at [euchreUS.github.io](http://euchreUS.github.io)
+
+---------------
+
 #Euchre US!
 
 This repository is for general files relating to the Euchre US! project.  Finished projects are either owned by their original author or have been transferred to separate [repositories owned by EuchreUS here on GitHub](https://github.com/EuchreUS).
