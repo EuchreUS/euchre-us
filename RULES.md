@@ -1,8 +1,8 @@
-#Rules for Double-Deck \[Bid\] Euchre
-######(as taught to [Chris J.M](https://www.github.com/duck57))
+# Rules for Double-Deck \[Bid\] Euchre
+###### (as taught to [Chris J.M](https://www.github.com/duck57))
 
 1. Use a double euchre deck (standard pinochle deck) and four players.
-  1. There is a three-player variant where each player gets 16 cards and plays alone.  It's mostly similar to the rest of the rules otherwise, but, like single-deck (standard) euchre, probably won't be implemented by me (others are welcome to add this feature).
+  * There is a three-player variant where each player gets 16 cards and plays alone.  It's mostly similar to the rest of the rules otherwise, but, like single-deck (standard) euchre, probably won't be implemented by me (others are welcome to add this feature).
 2. Dealer rotates the usual way (to the left) between each hand.
   1. Each player is dealt 12 cards.
      * The usual way is the Fibonacci Deal, where you deal each player 1, 1, 2, 3, then 5 cards each go around.
